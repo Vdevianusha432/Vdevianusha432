@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Anuhsa and I'm a UX/UI Designer, from India<br><br>Passionate and meticulous UX/UI Designer with experience in the field of Civil Engineering, applying analytical skills, organized design thinking, and user understanding for digital product design. Experienced in usability principles, prototyping, and collaborative design processes, focusing on designing accessible digital products.</h3>
+<h3 align="left">Hi 👋! My name is Anusha and I'm a UX/UI Designer, from India<br><br>Passionate and meticulous UX/UI Designer with experience in the field of Civil Engineering, applying analytical skills, organized design thinking, and user understanding for digital product design. Experienced in usability principles, prototyping, and collaborative design processes, focusing on designing accessible digital products.</h3>
 
 ###
 
