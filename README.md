@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Anuhsa and I'm a UX/UI Designer, from India</h3>h3<h4>Passionate and meticulous UX/UI Designer with experience in the field of Civil Engineering, applying analytical skills, organized design thinking, and user understanding for digital product design. Experienced in usability principles, prototyping, and collaborative design processes, focusing on designing accessible digital products.</h4>
+<h3 align="left">Hi 👋! My name is Anuhsa and I'm a UX/UI Designer, from India<br><br>Passionate and meticulous UX/UI Designer with experience in the field of Civil Engineering, applying analytical skills, organized design thinking, and user understanding for digital product design. Experienced in usability principles, prototyping, and collaborative design processes, focusing on designing accessible digital products.</h3>
 
 ###
 
@@ -46,13 +46,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vdevianusha432/Vdevianusha432/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vdevianusha432/Vdevianusha432/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vdevianusha432/Vdevianusha432/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
