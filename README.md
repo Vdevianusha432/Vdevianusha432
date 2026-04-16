@@ -1,16 +1,44 @@
-## Hi there 👋
+<h3 align="left">Hi 👋! My name is Anuhsa and I'm a UX/UI Designer, from India</h3><h5>Passionate and meticulous UX/UI Designer with experience in the field of Civil Engineering, applying analytical skills, organized design thinking, and user understanding for digital product design. Experienced in usability principles, prototyping, and collaborative design processes, focusing on designing accessible digital products.</h5>
 
-<!--
-**Vdevianusha432/Vdevianusha432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="30" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="vasamsettydevianusha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vasamsetty-devi-anusha-7b0605394?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="7996235953" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+</div>
+
+###
